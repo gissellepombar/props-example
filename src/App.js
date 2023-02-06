@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>This is Props!</h1>
-        <Greeting name="Gisselle"/>
-        <Greeting name="Gisele"/>
+        <Greeting name="Gisselle" lastName="Pombar"/>
+        <Greeting name="Gisele" lastName="Abzalov"/>
       </header>
     </div>
   );
